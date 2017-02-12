@@ -5,7 +5,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-  <title>New website can be seen here</title>
+  <title>About Anton Sementsov</title>
 
   <!-- Bootstrap -->
 
@@ -21,28 +21,7 @@
 <body>
 
   <div class="container">
-    <header>
-
-      <div id="absatz" class="btn-group btn-group-justified" role="group" aria-label="...">
-        <div class="btn-group" role="group">
-          <button type="button" class="btn btn-default">About</button>
-        </div>
-        <div class="btn-group" role="group">
-          <button type="button" class="btn btn-default">Story</button>
-        </div>
-        <div class="btn-group" role="group">
-          <button type="button" class="btn btn-default">Contact</button>
-        </div>
-      </div>
-
-      <div class="jumbotron">
-        <h1>Hello, world!</h1>
-        <p>...</p>
-        <p><a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a></p>
-      </div>
-
-
-    </header>
+    	<?php include 'include/header.php'; ?>
     <main>
 
       <div class="row">
@@ -84,13 +63,7 @@
           <li role="presentation"><a href="#">Contact</a></li>
         </ul>
 
-        <footer class="footer">
-
-          <div >
-            <h3 id="footerText"><strong>Anton Sementsov©</strong></h3>
-
-          </div>
-        </footer>
+        <?php include 'include/footer.php'; ?>
         <div class="clearBottom">
         </div>
 

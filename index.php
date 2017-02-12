@@ -23,14 +23,18 @@
 	<body>
 		<div class="container">
 			<?php include 'include/header.php'; ?>
-			<!--<?.php include 'include/nav.php'; ?>-->
-			<main>
 
+			<main>
+				<div class="jumbotron">
+			    <h1>Hello, world!</h1>
+			    <p>I am Anton and my hobby is to make websites and to learn new web technologies. Currently I am looking for a job as a IT-Project Manager. Here you will find my CV and contact details.</p>
+			    <p><a class="btn btn-primary btn-lg" href="#" role="button">Read more about Anton</a></p>
+			  </div>
 	              </main>
 	<div class="clearFixShort">
 
 	</div>
-				<!--<?.php include 'include/sidebar.php'; ?>-->
+
 
 			<?php include 'include/footer.php'; ?>
 		</div> <!-- End #container -->
