@@ -11,10 +11,5 @@
 <li><a href="#">Ссылка</a></li>
 <li><a href="#">Ссылка</a></li>
 <li><a href="#">Ссылка</a></li>
-<h3>Box Three</h3>
-<li><a href="#">Ссылка</a></li>
-<li><a href="#">Ссылка</a></li>
-<li><a href="#">Ссылка</a></li>
-<li><a href="#">Ссылка</a></li>
-<li><a href="#">Ссылка</a></li>
+
 </div> <!-- end #sidebar -->
