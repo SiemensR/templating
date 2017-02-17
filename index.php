@@ -85,7 +85,17 @@
 		</div>
 
 			<!-- end of slider -->
+<br/><br/>
 
+			<video src="note.webm" width="640" height="480"
+			poster="https://i.ytimg.com/vi/LSe0Q6dgVbA/hqdefault.jpg" autobuffer autoplay
+			controls>
+
+			<div>Schade – hier käme ein Video, wenn Ihr
+			Browser HTML5 Unterstützung hätte, wie z.B. der
+			aktuelle Firefox</div>
+
+			</video>
 
 
 
