@@ -87,8 +87,8 @@
 			<!-- end of slider -->
 <br/><br/>
 
-			<video src="note.webm" width="640" height="480"
-			poster="https://i.ytimg.com/vi/LSe0Q6dgVbA/hqdefault.jpg" autobuffer autoplay
+			<video src="note.webm" width="1140" height="980"
+			poster="https://i.ytimg.com/vi/LSe0Q6dgVbA/hqdefault.jpg" autobuffer
 			controls>
 
 			<div>Schade – hier käme ein Video, wenn Ihr
