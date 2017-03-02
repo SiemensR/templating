@@ -98,7 +98,7 @@
 					if(options.animation == "fadeAndPop") {
 						modalBG.delay(options.animationspeed).fadeOut(options.animationspeed);
 						modal.animate({
-							"top":  $(document).scrollTop()-topOffset + 'px',
+							"top":  $(document).scrollTop()-topOffset + 300 + 'px',
 							"opacity" : 0
 						}, options.animationspeed/2, function() {
 							modal.css({'top':topMeasure, 'opacity' : 1, 'visibility' : 'hidden'});

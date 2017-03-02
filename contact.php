@@ -31,18 +31,21 @@
 		<div class="container">
 			<?php include 'include/header.php'; ?>
 
-<h1>Contact Anton:</h1>
+<a href="#" class="big-link" data-reveal-id="myModal"><h1>Contact Anton:</h1></a>
 <br/><br/>
 
 			<main>
 
 
 				<!-- begin of pop-up-->
-				<a href="#" class="big-link" data-reveal-id="myModal">Fade and Pop</a>
+
 
 				<div id="myModal" class="reveal-modal">
-							<h1>Reveal Modal Goodness</h1>
-							<p>This is a default modal in all its glory, but any of the styles here can easily be changed in the CSS.</p>
+							<h1>Do not hesitate to contact me:</h1>
+							<p><i class="fa fa-briefcase fa-fw w3-margin-right w3-large w3-text-teal"></i>IT Project Manager</p>
+							<p><i class="fa fa-home fa-fw w3-margin-right w3-large w3-text-teal"></i>Berlin, Germany</p>
+							<p><i class="fa fa-envelope fa-fw w3-margin-right w3-large w3-text-teal"></i>ase@mail.com</p>
+							<p><i class="fa fa-phone fa-fw w3-margin-right w3-large w3-text-teal"></i>1224435534</p>
 							<a class="close-reveal-modal">&#215;</a>
 						</div>
 
