@@ -9,8 +9,15 @@
 
 		<!-- Bootstrap -->
 
-	  <link href="css/bootstrap.min.css" rel="stylesheet">
-	  <link href="css/main.css" rel="stylesheet">
+		<link href="css/bootstrap.min.css" rel="stylesheet">
+
+		<link href="css/main.css" rel="stylesheet">
+		<script src="http://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+		<script type="text/javascript" src="http://code.jquery.com/jquery-1.6.min.js"></script>
+		<link href="css/reveal.css" rel="stylesheet">
+		<script src="js/jquery.reveal.js"></script>
+
+
 	  <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
 	  <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
 	  <!--[if lt IE 9]>
@@ -25,8 +32,22 @@
 			<?php include 'include/header.php'; ?>
 
 <h1>Contact Anton:</h1>
+<br/><br/>
 
 			<main>
+
+
+				<!-- begin of pop-up-->
+				<a href="#" class="big-link" data-reveal-id="myModal">Fade and Pop</a>
+
+				<div id="myModal" class="reveal-modal">
+							<h1>Reveal Modal Goodness</h1>
+							<p>This is a default modal in all its glory, but any of the styles here can easily be changed in the CSS.</p>
+							<a class="close-reveal-modal">&#215;</a>
+						</div>
+
+				<!--End of pop-up-->
+
 
 	              </main>
 	<div class="clearFixShort">
